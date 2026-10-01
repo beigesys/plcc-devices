@@ -1,4 +1,4 @@
-<!-- SPDX-License-Identifier: MPL-2.0 -->
+<!-- SPDX-License-Identifier: CC0-1.0 -->
 
 # plcc device catalog
 
@@ -21,3 +21,9 @@ Rules for this directory:
   the source in a comment, not from guesses.
 - A manifest is untrusted data to every tool that reads it: `[flash]` can only
   narrow the flasher's built-in limits for a USB id, never widen them.
+
+## License
+
+The manifests in this repository are dedicated to the public domain under
+[CC0 1.0](LICENSE). Copy, tweak and redistribute them however you like, with
+or without credit. Contributions are accepted under the same terms.
